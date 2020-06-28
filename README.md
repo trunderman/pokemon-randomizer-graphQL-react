@@ -3,4 +3,4 @@ Simple React/GraphQL responsive app that returns a random amount of pokemon, and
 
 To run the app simply clone the repo to your local, npm install, and npm run watch. After those have both finished, just open index.html within your file explorer. 
 
-<p align="center">![demo](demo.gif)</p>
+![demo](demo.gif)
